@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Esther Simkavitz
+#### Wanna-be Java Developer, Chef and Superhero
