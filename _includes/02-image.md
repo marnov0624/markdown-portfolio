@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Blue Sky in Colorado](https://bogsofohio.files.wordpress.com/2010/08/aug2010a-142.jpg)
